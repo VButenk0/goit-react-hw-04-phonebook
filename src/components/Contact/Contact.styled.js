@@ -6,7 +6,7 @@ export const StyledListItem = styled.li`
 
 export const StyledText = styled.p`
   display: inline;
-  padding-right: 10px;
+  padding-right: 5px;
   margin: 0;
 `;
 
